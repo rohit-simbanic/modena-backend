@@ -1,0 +1,263 @@
+[
+  {
+    "id": "agent123",
+    "fullName": "John Doe",
+    "email": "johndoe@example.com",
+    "phoneNumber": "123-456-7890",
+    "password": "password123",
+    "licenseNumber": "LIC123456",
+    "agencyName": "Doe Realty",
+    "agencyAddress": "123 Main St, Anytown, USA",
+    "yearsOfExperience": 10,
+    "specializations": [
+      "residential",
+      "commercial"
+    ],
+    "profilePicture": "http://example.com/profile/johndoe.jpg",
+    "governmentID": "http://example.com/documents/govID.jpg",
+    "linkedInProfile": "http://linkedin.com/in/johndoe",
+    "website": "http://doerealty.com",
+    "marketingPreferences": true,
+    "preferredCommunicationChannels": [
+      "email",
+      "phone"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Spanish"
+    ],
+    "serviceAreas": [
+      "New York",
+      "New Jersey"
+    ],
+    "professionalBio": "Experienced real estate agent with over 10 years in the industry.",
+    "certificationsAwards": [
+      "Top Agent 2020",
+      "Certified Residential Specialist"
+    ],
+    "references": [
+      "Jane Smith: jane.smith@example.com",
+      "Bob Johnson: bob.johnson@example.com"
+    ]
+  },
+  {
+    "id": "agent_1716200792313",
+    "fullName": "John Doe",
+    "email": "johndoe2@example.com",
+    "phoneNumber": "123-456-7890",
+    "password": "$2a$10$NVXE09LUNOZyH8Y.WAyTeeA7Rwtqe6nHUNqpi.Yfbe/6ntqr8r0zC",
+    "licenseNumber": "LIC123456",
+    "agencyName": "Doe Realty",
+    "agencyAddress": "123 Main St, Anytown, USA",
+    "yearsOfExperience": 10,
+    "specializations": [
+      "residential",
+      "commercial"
+    ],
+    "profilePicture": "http://example.com/profile/johndoe.jpg",
+    "governmentID": "http://example.com/documents/govID.jpg",
+    "linkedInProfile": "http://linkedin.com/in/johndoe",
+    "website": "http://doerealty.com",
+    "marketingPreferences": true,
+    "preferredCommunicationChannels": [
+      "email",
+      "phone"
+    ],
+    "languagesSpoken": [
+      "English",
+      "Spanish"
+    ],
+    "serviceAreas": [
+      "New York",
+      "New Jersey"
+    ],
+    "professionalBio": "Experienced real estate agent with over 10 years in the industry.",
+    "certificationsAwards": [
+      "Top Agent 2020",
+      "Certified Residential Specialist"
+    ],
+    "references": [
+      "Jane Smith: jane.smith@example.com",
+      "Bob Johnson: bob.johnson@example.com"
+    ]
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "rray524@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$6bfnC/jCwpGyytVZmyZiMOYd04c15ia3cueqEkZzgiqbaura9iEFi",
+    "licenseNumber": "41241241",
+    "agencyName": "Test name",
+    "agencyAddress": "College Para Rd",
+    "yearsOfExperience": "4",
+    "specializations": [
+      "test",
+      " area",
+      " etc"
+    ],
+    "profilePicture": "https://media.licdn.com/dms/image/C5603AQHYF9r7MeNyUQ/profile-displayphoto-shrink_200_200/0/1638115159469?e=1721865600&v=beta&t=VdfKRXC4vtdjo5ZqznoWip_JbH6WeVohtUyBmyLum3M",
+    "governmentID": "https://media.licdn.com/dms/image/C5603AQHYF9r7MeNyUQ/profile-displayphoto-shrink_200_200/0/1638115159469?e=1721865600&v=beta&t=VdfKRXC4vtdjo5ZqznoWip_JbH6WeVohtUyBmyLum3M",
+    "linkedInProfile": "https://www.linkedin.com/in/rohit-m-552776aa/",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": true,
+    "preferredCommunicationChannels": [
+      "dual",
+      " slack",
+      " phone"
+    ],
+    "languagesSpoken": [
+      "english",
+      " spanish"
+    ],
+    "serviceAreas": [
+      "gujrat",
+      " kolkata"
+    ],
+    "professionalBio": "sgwgg ewqtwq terwtwq geraergertqer  rg ereqer tew ergwergwerweewrter",
+    "certificationsAwards": [
+      "nothing"
+    ],
+    "references": [
+      "rohit mondal"
+    ],
+    "id": "agent_1716207375709"
+  },
+  {
+    "fullName": "Rohit Biswas",
+    "email": "test@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$rx9ZobVF6yvwBFBucVmAcedFf87htW/ib0WxQATL4.h1j5BrviuR.",
+    "licenseNumber": "41241242",
+    "agencyName": "Test name",
+    "agencyAddress": "College Para Rd",
+    "yearsOfExperience": "3",
+    "specializations": "test, area, etc",
+    "governmentID": "https://media.licdn.com/dms/image/C5603AQHYF9r7MeNyUQ/profile-displayphoto-shrink_200_200/0/1638115159469?e=1721865600&v=beta&t=VdfKRXC4vtdjo5ZqznoWip_JbH6WeVohtUyBmyLum3M",
+    "linkedInProfile": "https://www.linkedin.com/in/rohit-m-552776aa/",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": "true",
+    "preferredCommunicationChannels": "dual, slack, phone",
+    "languagesSpoken": "english, spanish, french",
+    "serviceAreas": "gujrat, kolkata",
+    "professionalBio": "test ",
+    "certificationsAwards": "nothing",
+    "references": "rohit mondal",
+    "id": "agent_1716991983104",
+    "profilePicture": "/uploads/profilePicture-1716996059878.webp"
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "test3@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$UYrhsdC5Ug1kDvr217NcKe/c7JRoK/fOd1w2NdT4N3IDwc5KkEcN2",
+    "licenseNumber": "41241241",
+    "agencyName": "",
+    "agencyAddress": "",
+    "yearsOfExperience": "0",
+    "specializations": "",
+    "governmentID": "43242424",
+    "linkedInProfile": "",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": "false",
+    "preferredCommunicationChannels": "",
+    "languagesSpoken": "",
+    "serviceAreas": "",
+    "professionalBio": "",
+    "certificationsAwards": "",
+    "references": "",
+    "id": "agent_1717073967711",
+    "profilePicture": null
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "test4@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$C1WgJDO8g3lvPAVJS58wRefOJA9zt1FdLnkw60kQDaX9PSEVv1Nuy",
+    "licenseNumber": "41241241",
+    "agencyName": "",
+    "agencyAddress": "",
+    "yearsOfExperience": "0",
+    "specializations": "",
+    "governmentID": "43242424",
+    "linkedInProfile": "",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": "false",
+    "preferredCommunicationChannels": "",
+    "languagesSpoken": "",
+    "serviceAreas": "",
+    "professionalBio": "",
+    "certificationsAwards": "",
+    "references": "",
+    "id": "agent_1717074059991",
+    "profilePicture": null
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "test5@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$vYBdSeO6kDeFVlR5xc1LSO4gO8SBxcGLEoDaJiybl6nFztPryxA4i",
+    "licenseNumber": "41241241",
+    "agencyName": "Test name",
+    "agencyAddress": "141/1 - 1214 COLLEGE PARA ROAD NEAR SAHA PARA MORE, TOWER OALA",
+    "yearsOfExperience": "12",
+    "specializations": "test, area, etc",
+    "governmentID": "323132",
+    "linkedInProfile": "",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": "false",
+    "preferredCommunicationChannels": "slack",
+    "languagesSpoken": "",
+    "serviceAreas": "",
+    "professionalBio": "I am simple guy who loves to buy and sell properties with handsome commission of course!!",
+    "certificationsAwards": "",
+    "references": "",
+    "id": "agent_1717074487345",
+    "profilePicture": "/uploads/profilePicture-1717275826441.jpeg"
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "test2@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$LPOuxozSt/iVt7nXtexBm.kK3UiDvN2SSqomwOMX08sRvsvlmQ8s.",
+    "licenseNumber": "41241241",
+    "agencyName": "",
+    "agencyAddress": "",
+    "yearsOfExperience": "0",
+    "specializations": "",
+    "governmentID": "42342",
+    "linkedInProfile": "",
+    "website": "https://www.linkedin.com",
+    "marketingPreferences": "false",
+    "preferredCommunicationChannels": "",
+    "languagesSpoken": "",
+    "serviceAreas": "",
+    "professionalBio": "",
+    "certificationsAwards": "",
+    "references": "",
+    "id": "agent_1717165330300",
+    "profilePicture": null
+  },
+  {
+    "fullName": "Rohit Mondal",
+    "email": "rray524new@gmail.com",
+    "phoneNumber": "9883995131",
+    "password": "$2a$10$zs.z7jT2YAYlAG6rE9PcteaGvc0iIX4iWZ3jiLQSw9cwtpODcJFSy",
+    "licenseNumber": "41241241",
+    "agencyName": "Test name",
+    "agencyAddress": "141/1 - 1214 COLLEGE PARA ROAD NEAR SAHA PARA MORE, TOWER OALA",
+    "yearsOfExperience": "12",
+    "specializations": "",
+    "governmentID": "",
+    "linkedInProfile": "",
+    "website": "",
+    "marketingPreferences": "false",
+    "preferredCommunicationChannels": "",
+    "languagesSpoken": "",
+    "serviceAreas": "",
+    "professionalBio": "",
+    "certificationsAwards": "",
+    "references": "",
+    "id": "agent_1717274508002",
+    "profilePicture": "/uploads/profilePicture-1717274671490.jpeg"
+  }
+]
